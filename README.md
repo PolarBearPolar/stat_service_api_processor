@@ -10,7 +10,7 @@ In order to use the program, you should follow the steps below:
 
 ![image](https://user-images.githubusercontent.com/88388315/175759620-ecf4854a-f89e-4304-88ec-225a26f278f1.png)
 
-  - You can replace lines 2,3,4 with whatever options you like. Available save modes are **xlsx**, **txt**. 
+  - You can replace lines 2,3,4 with whatever options you like. Available save modes are **xlsx**, **txt** (txt is more preferable for large datasets). 
   - The xml file that contains available datasets can be found on https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/all. Dataset identifiers are in elements that have the **KeyFamily** tag (id attribute).
 
 I hope you will like it 🙂
